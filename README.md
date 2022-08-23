@@ -14,6 +14,10 @@ This project is inspired by Alejandro Puig [@puigalex](https://github.com/puigal
 
 ## How to run this project?
 * Have a directory called data, inside two directories (entrenamiento y validacion) and inside each of these two one directory for each animal with at least 300 animal's images. 
+
+The data set was taken from https://www.kaggle.com/biancaferreira/african-wildlife. Made by [@Bianca Ferreira](https://www.kaggle.com/biancaferreira) 
+
+![directory](https://user-images.githubusercontent.com/31389972/186055354-bea8e4a6-887e-4d07-a414-860e52bbd748.JPG)
 * Run train.py file in order to create the files with trained model
 * Run prediccion.py file 
 * Upload an image and it will shows the prediction
